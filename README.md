@@ -2,7 +2,7 @@
 👋 Hi, I’m Chidike Henry 
 😎 I’m a web developer 
 💻 This is a game made with HTML, CSS and Javascript. 
-🌍 Website: 
+🌍 Website:  https://lacegiovanni17.github.io/tic-tac-toe-game/
 💞️ I’m looking to collaborate on JS projects 
 📫 How to reach me dk1online25@gmail.com
 
